@@ -26,6 +26,6 @@
 Send any queries to Reza Nopour (rezanopour@gmail.com).
 
 # Animation
-<p align="center">
+
 https://github.com/user-attachments/assets/194b565f-e1a7-40eb-8521-8554b85b8b82
-</p>
+
