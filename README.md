@@ -6,7 +6,7 @@
 
 # 2DOF-Helicopter-Control
 > [!TIP]
-> All simulations (MATLAB/SIMULINK) are provided with the help of M.Mirzaei!
+> All simulations (MATLAB/SIMULINK) are provided with the help of [M.Mirzaee](https://www.google.com/url?sa=i&url=https%3A%2F%2Fir.linkedin.com%2Fin%2Fmohammad-mirzaee-70315b1b8&psig=AOvVaw2VhL3p3LnVEqAvuK3hP1dw&ust=1722453709361000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCNCZhp2-z4cDFQAAAAAdAAAAABAE) !
 
 > [!NOTE]
 > All in Persian, includes
